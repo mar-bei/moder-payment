@@ -2,8 +2,9 @@
 
 ## Screenshots
 
-### Homepage
-![image1](https://github.com/mar-bei/moder-payment/blob/main/Progetto%20senza%20titolo/1.png?raw=true)
+### Homepage  
+<img src="https://github.com/mar-bei/moder-payment/blob/main/Progetto%20senza%20titolo/1.png?raw=true" width="400">
 
-### Dashboard
-![Dashboard](https://github.com/mar-bei/moder-payment/blob/main/Progetto%20senza%20titolo/2.png?raw=true)
+### Dashboard  
+<img src="https://github.com/mar-bei/moder-payment/blob/main/Progetto%20senza%20titolo/2.png?raw=true" width="400">
+
